@@ -55,4 +55,5 @@ _deps
 # Build folder
 build/
 
-
+# kate
+*.kate-swp
