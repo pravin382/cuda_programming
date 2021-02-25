@@ -53,7 +53,7 @@ _deps
 *.app
 
 # Build folder
-build/
+# build/
 
 # kate
 *.kate-swp
